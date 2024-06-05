@@ -8,3 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'project';
 }
+git config --global user.email "elidrissizianiadam@gmail.com"
+git config --global user.name "ADAM-ZEI"
